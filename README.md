@@ -9,6 +9,8 @@ Since Salesforce does not close these sessions automatically nor we want to clos
 ### Install dependencies
 - [Python 3.X](https://www.python.org/downloads/)
 - [Pipenv](https://pipenv.pypa.io/en/latest/)
+
+And also install project dependencies:
 ```
 pipenv install
 ```
