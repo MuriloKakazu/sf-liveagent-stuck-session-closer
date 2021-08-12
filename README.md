@@ -15,11 +15,9 @@ And also install project dependencies:
 pipenv install
 ```
 
-###
+### Config your .env file
 
 ⚠️ Any variable that requires credentials of a user that has a Messaging license and is assigned to a queue that routes messaging sessions will be marked with this icon
-
-### Config your .env file
 
 | ENVIRONMENT VARIABLE          | DESCRIPTION                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
